@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "rd"
+		},
+		{
+			"path": "abc188"
+		},
+		{
+			"path": "abc187"
+		},
+		{
+			"path": "abc186"
+		},
+		{
+			"path": "abc189"
+		},
+		{
+			"path": "abc190"
+		},
+		{
+			"path": "abc196"
+		},
+		{
+			"path": "abc195"
+		},
+		{
+			"path": "abc197"
+		},
+		{
+			"path": ".vscode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fstream": "cpp"
+		}
+	}
+}
