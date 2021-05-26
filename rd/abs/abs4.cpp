@@ -8,6 +8,9 @@ int main() {
     int a, b, c, x;
     cin >> a >> b >> c >> x;
     int ans = 0;
+    // 500円と100円の最大値-100円の最小値でもとまるらしいのでやってみる。
+    //わからん
+    //https://qiita.com/yutaro1985/items/da063d67f715610f913a
     for (int i = 0; i <= a; i++) {
         for (int j = 0; j <= b; j++) { //ループを一つ減らす
             int rest = x - i * 500 - j * 100;

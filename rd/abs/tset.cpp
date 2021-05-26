@@ -5,9 +5,8 @@ using ll = long long;
 using P = pair<int, int>;
 
 int main() {
-    string s;
-    cin >> s;
-    int ans = 0;
-    rep(i, s.size()) ans += (s.at(i) - '0');
-    cout << ans << endl;
+    int a, b;
+    a = 9999;
+    b = a / 1000;
+    cout << b << endl;
 }
